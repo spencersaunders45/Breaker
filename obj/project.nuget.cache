@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tKX8rJi9JnMO/Ip1H7gyOkVdbrAeEZzam1L7/EO4Oc2Zmfn97Fmjxuxof7lfgzRy4cOc/EhRu68KXzpJRkpOEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spenc\\OneDrive\\College\\Spring 2022\\CSE 210\\Breaker\\Breaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spenc\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\spenc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
